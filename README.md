@@ -11,6 +11,7 @@ Implement and compare the following sorting algorithm:
 6.	Bubble sort 
 
 -------------------MOTIVATION----------------
+
 To implement various sorting algorithms, calculate their run time for different data sizes, 
 compare their run time and conclude best sorting algorithm.
 
